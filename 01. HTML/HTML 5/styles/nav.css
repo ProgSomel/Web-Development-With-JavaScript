@@ -1,0 +1,38 @@
+nav>ul {
+  display: flex;
+}
+nav li {
+  list-style: none;
+  margin-right: 10px;
+}
+nav li a {
+  text-decoration: none;
+  color: black;
+
+}
+nav li:hover {
+  background-color: lightgray;
+}
+/* Nested Menu */
+nav li .dropdown{
+  display: none;
+  position: absolute;
+}
+
+nav li:hover .dropdown {
+  display: block;
+
+}
+nav li .form-dropdown {
+  display:none ;
+  position: absolute;
+}
+nav li >.form-dropdown {
+  display:none ;
+  position: absolute;
+  margin: 10px;
+}
+
+nav li:hover >.form-dropdown {
+  display: block;
+}

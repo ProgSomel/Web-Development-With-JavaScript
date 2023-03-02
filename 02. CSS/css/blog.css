@@ -1,0 +1,21 @@
+h3 {
+   color: magenta;
+   text-decoration:underline wavy green ;
+}
+
+p{
+  color: green;
+}
+
+ul li {
+  color: purple;
+ 
+}
+
+.header {
+  height: 200px;
+  /* background-image:url('baby.jfif') ; */
+  /* background-image:url('../')  */
+  background-image:url('../images/home,png') ;
+}
+

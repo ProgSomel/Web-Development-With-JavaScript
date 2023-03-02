@@ -1,0 +1,23 @@
+.first-row {
+  background-color: pink;
+  height: 200px;
+  margin-top: 20px;
+}
+.second-row {
+  background-color: red;
+  height: 200px;
+  margin-top: 20px;
+
+  
+}
+.third-row {
+  background-color: navy;
+  margin-top: 20px;
+  height: 200px;
+ 
+}
+.fourth-row {
+  background-color: orange;
+  margin-top: 20px;
+  height: 200px;
+}
